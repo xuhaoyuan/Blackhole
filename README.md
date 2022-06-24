@@ -1,4 +1,6 @@
-# #000
+# #000 
+
+origin https://github.com/shrugs/000
 
 An experimental app. Uses SceneKit and a Perlin Noise generator to build 3d planets, then projects them into a SpriteKit scene for 2d interactions.
 

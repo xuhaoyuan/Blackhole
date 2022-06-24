@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		51F036612865CDAB00016E29 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 51F036602865CDAB00016E29 /* README.md */; };
 		B013E2EB2B67948AB9A80F84 /* Pods__000.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE68215F5BFA96810709DE41 /* Pods__000.framework */; };
 		C93B821B1CD32CA100D76803 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93B821A1CD32CA100D76803 /* AppDelegate.swift */; };
 		C93B821D1CD32CA100D76803 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93B821C1CD32CA100D76803 /* MainViewController.swift */; };
@@ -71,6 +72,7 @@
 
 /* Begin PBXFileReference section */
 		36FEE277DD066DE1D09736F9 /* Pods-#000.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-#000.release.xcconfig"; path = "Target Support Files/Pods-#000/Pods-#000.release.xcconfig"; sourceTree = "<group>"; };
+		51F036602865CDAB00016E29 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		6B2B2981970C5AD1832F6955 /* Pods-#000.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-#000.debug.xcconfig"; path = "Target Support Files/Pods-#000/Pods-#000.debug.xcconfig"; sourceTree = "<group>"; };
 		BE68215F5BFA96810709DE41 /* Pods__000.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods__000.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C93B82171CD32CA100D76803 /* #000.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "#000.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -194,6 +196,7 @@
 		C93B82191CD32CA100D76803 /* #000 */ = {
 			isa = PBXGroup;
 			children = (
+				51F036602865CDAB00016E29 /* README.md */,
 				C9695E531CD5FCA000B03462 /* Baked Realm Stuff */,
 				C93B821A1CD32CA100D76803 /* AppDelegate.swift */,
 				C93B82211CD32CA100D76803 /* Assets.xcassets */,
@@ -411,6 +414,7 @@
 				C97121671CD5B60F009100DD /* Test.sks in Resources */,
 				C9695E691CD5FCB200B03462 /* Unknown.png in Resources */,
 				C9695E631CD5FCB200B03462 /* Earth.png in Resources */,
+				51F036612865CDAB00016E29 /* README.md in Resources */,
 				C93B82551CD3306800D76803 /* star.png in Resources */,
 				C93B82541CD3306800D76803 /* spark.png in Resources */,
 				C9695E661CD5FCB200B03462 /* KU 315.png in Resources */,
