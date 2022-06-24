@@ -1,0 +1,11 @@
+source 'https://cdn.cocoapods.org/' # CDN加速
+platform :ios, '12.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target '#000' do
+
+#pod 'RealmSwift', '~>10'
+pod 'XHYCategories', '0.1.1'
+
+end
